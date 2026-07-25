@@ -116,16 +116,8 @@ L'application permet de :
 ├── modele_faux_billets.joblib
 ├── requirements.txt
 ├── Fake_Bill_Detector.ipynb
+├── Modele_Research_And_Training.ipynb
 └── README.md
-```
-
----
-
-## ▶️ Exécution en local
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
 ```
 
 ---
