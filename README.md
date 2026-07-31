@@ -77,7 +77,7 @@ Plusieurs algorithmes ont été comparés :
 | Random Forest | 98,67 % | 97,96 % |
 | Naive Bayes | 98,67 % | 97,98 % |
 | Decision Tree | 97,33 % | 96,00 % |
-| K-Means | 53,67 % | 34,12 % |
+| K-Means | 98,67 % | 97,97 % |
 
 La **régression logistique** a été retenue pour l'application finale en raison de ses excellentes performances, de sa simplicité d'interprétation et de sa rapidité d'exécution.
 
